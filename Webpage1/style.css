@@ -1,0 +1,26 @@
+div{
+    width: 150px;
+    height: 150px;
+    padding-left: 700px;
+}
+
+img{
+    border-radius: 25px;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: chocolate;
+}
+
+.self{
+    padding: 20px;
+}
+
+h4{
+    padding-left: 20px;
+}
+
+footer{
+    margin: 20px;
+}
